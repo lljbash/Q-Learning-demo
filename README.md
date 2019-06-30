@@ -1,5 +1,5 @@
 # Q-Learning-demo
-清华大学 计算智能及机器人学 课程作业
+用Q学习训练AI玩一个小游戏。
 
 ## Prerequisites
 - Python 3
